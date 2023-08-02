@@ -1,4 +1,6 @@
-vmess://eyJhZGQiOiI4OC45OS4xODQuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTAwZjFlY2YtOGY4Zi00YjE5LWMxZDktMTYzMzYwNWU3ZTgzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiOTkiLCJwcyI6IkBmcmVlaXJhbndlYiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNTkuNjkuODIuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTAwZjFlY2YtOGY4Zi00YjE5LWMxZDktMTYzMzYwNWU3ZTgzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODUiLCJwcyI6IkBmcmVlaXJhbndlYiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://5a59276b-9e0c-4e9f-9636-40e538607a51@78.46.158.75:45337?security=none&encryption=none&host=flutter.dev&headerType=http&type=tcp#%40freeiranweb
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%40freeiranweb
+vless://2f8b514d-d8b5-43a4-dcc6-97ea8526c816@5.161.209.168:443?path=%2F&security=none&encryption=none&type=ws#%40freeiranweb
+vless://a26d01a2-0c63-4a59-a1a0-3b6ee222fd85@95.217.216.45:443?path=%2F&security=tls&encryption=none&type=ws&sni=ifi1.kaghazacharrangi.sbs#%40freeiranweb
+vless://8e6514cc-54f5-49a6-c66b-7c06eab72e7f@5.161.209.168:443?path=%2F&security=none&encryption=none&type=ws#%40freeiranweb
+vless://73dfec25-4d01-4a98-dd8c-663a1502f3d3@167.235.139.183:26557?path=%2F&security=tls&encryption=none&type=ws&sni=ig2.kaghazacharrangi.sbs#%40freeiranweb
+vless://f5ac94b8-bbd9-457c-90e2-92f4f9c8114a@5.161.223.122:36207?path=%2F&security=tls&encryption=none&type=ws&sni=iud2.kaghazacharrangi.sbs#%40freeiranweb
+vless://f8f44dbc-80fc-4aaf-fce6-bd067c261e58@167.235.139.183:29367?path=%2F&security=tls&encryption=none&type=ws&sni=ig1.kaghazacharrangi.sbs#%40freeiranweb
