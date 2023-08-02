@@ -4,3 +4,4 @@ vless://8e6514cc-54f5-49a6-c66b-7c06eab72e7f@5.161.209.168:443?path=%2F&security
 vless://73dfec25-4d01-4a98-dd8c-663a1502f3d3@167.235.139.183:26557?path=%2F&security=tls&encryption=none&type=ws&sni=ig2.kaghazacharrangi.sbs#%40freeiranweb
 vless://f5ac94b8-bbd9-457c-90e2-92f4f9c8114a@5.161.223.122:36207?path=%2F&security=tls&encryption=none&type=ws&sni=iud2.kaghazacharrangi.sbs#%40freeiranweb
 vless://f8f44dbc-80fc-4aaf-fce6-bd067c261e58@167.235.139.183:29367?path=%2F&security=tls&encryption=none&type=ws&sni=ig1.kaghazacharrangi.sbs#%40freeiranweb
+vless://9ce9d8a5-857e-461e-baa2-9558b0c8e86d@65.109.202.116:443?path=%2F%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&type=ws#%40freeiranweb+%F0%9F%87%AB%F0%9F%87%AE
