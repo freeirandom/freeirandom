@@ -1,7 +1,2 @@
-vless://2f8b514d-d8b5-43a4-dcc6-97ea8526c816@5.161.209.168:443?path=%2F&security=none&encryption=none&type=ws#%40freeiranweb
-vless://a26d01a2-0c63-4a59-a1a0-3b6ee222fd85@95.217.216.45:443?path=%2F&security=tls&encryption=none&type=ws&sni=ifi1.kaghazacharrangi.sbs#%40freeiranweb
-vless://8e6514cc-54f5-49a6-c66b-7c06eab72e7f@5.161.209.168:443?path=%2F&security=none&encryption=none&type=ws#%40freeiranweb
-vless://73dfec25-4d01-4a98-dd8c-663a1502f3d3@167.235.139.183:26557?path=%2F&security=tls&encryption=none&type=ws&sni=ig2.kaghazacharrangi.sbs#%40freeiranweb
-vless://f5ac94b8-bbd9-457c-90e2-92f4f9c8114a@5.161.223.122:36207?path=%2F&security=tls&encryption=none&type=ws&sni=iud2.kaghazacharrangi.sbs#%40freeiranweb
-vless://f8f44dbc-80fc-4aaf-fce6-bd067c261e58@167.235.139.183:29367?path=%2F&security=tls&encryption=none&type=ws&sni=ig1.kaghazacharrangi.sbs#%40freeiranweb
-vless://9ce9d8a5-857e-461e-baa2-9558b0c8e86d@65.109.202.116:443?path=%2F%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&type=ws#%40freeiranweb+%F0%9F%87%AB%F0%9F%87%AE
+vmess://eyJhZGQiOiIxMDMuMTYwLjIwNC45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2Rncm0uc2hhYmlqaWNoYW5nLmNvbSIsImlkIjoiZDFmYjYyOGMtMjA2ZS00MmE3LTgzN2ItNDE0NzI1NWZiYWViIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQGZyZWVpcmFud2ViIPCfh7jwn4eqINmH2YXYsdin2Ycg2KfZiNmEINmIINmF2K7Yp9io2LHYp9iqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDMuMTYwLjIwNC4yMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZsa2Yuc2hhYmlqaWNoYW5nLmNvbSIsImlkIjoiZDFmYjYyOGMtMjA2ZS00MmE3LTgzN2ItNDE0NzI1NWZiYWViIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQGZyZWVpcmFud2ViIPCfh6nwn4eqINin24zYsdin2YbYs9mEINmIINix2KfbjNiq2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
