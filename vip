@@ -1,5 +1,2 @@
-vless://2b084df8-ab2b-461f-8ed2-65dd8adcf61a@136.243.231.31:43531?security=none&encryption=none&host=Zvtm62fo.divarcdn.com&headerType=http&type=tcp#%40freeiranweb
-vless://c8a82114-fad4-4d48-b290-1db0e48505d3@190.93.246.241:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=liV2ray.z2-lightning6.sbs#%40freeiranweb
-vless://ad041390-c38a-4cbd-aec5-57e4e09f0010@104.31.16.65:80?path=%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&host=www.mobishift.sbs&type=ws#%40freeiranweb+%F0%9F%87%A9%F0%9F%87%AA
-vless://ad041390-c38a-4cbd-aec5-57e4e09f0010@23.227.39.203:80?path=%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&host=www.mobishift.sbs&type=ws#%40freeiranweb%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiI4OS4xMTYuMzguMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IkBmcmVlaXJhbndlYiDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://66f45e4c-aa67-4edc-88d8-d49c0d520ec9@116.203.167.145:443?security=reality&encryption=none&alpn=h2&pbk=qFJiGhrlBy-DebqnaMyNBD2UpfJ9k5peeUOghL4HhGw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=fa2ae90f05c1#%40freeiranweb
+vless://93577cd9-1c1c-44bd-82b1-cb1b3fd334b3@94.23.165.26:38216?security=reality&encryption=none&pbk=kXdzFnImlxI8MyMvLFYmDPyuUZ28keDpf2ISdXUgxHc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=10876112#%40freeiranweb
