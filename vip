@@ -1,2 +1,5 @@
-vless://66f45e4c-aa67-4edc-88d8-d49c0d520ec9@116.203.167.145:443?security=reality&encryption=none&alpn=h2&pbk=qFJiGhrlBy-DebqnaMyNBD2UpfJ9k5peeUOghL4HhGw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=fa2ae90f05c1#%40freeiranweb
-vless://93577cd9-1c1c-44bd-82b1-cb1b3fd334b3@94.23.165.26:38216?security=reality&encryption=none&pbk=kXdzFnImlxI8MyMvLFYmDPyuUZ28keDpf2ISdXUgxHc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=10876112#%40freeiranweb
+vless://ad041390-c38a-4cbd-aec5-57e4e09f0010@23.227.39.203:80?path=%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&host=www.mobishift.sbs&type=ws#%40freeiranweb+hamrah+Aval2%F0%9F%87%A9%F0%9F%87%AA
+vless://ad041390-c38a-4cbd-aec5-57e4e09f0010@104.31.16.65:80?path=%2Ftelegram%2Fid%2Fov2ray&security=none&encryption=none&host=www.mobishift.sbs&type=ws#%40freeiranweb+hamrah+Aval1%F0%9F%87%A9%F0%9F%87%AA
+vless://e60e6d91-83da-4edc-b310-fb871b581e1d@195.85.23.0:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=ov2ray&sni=clouds.pngimage.sbs#%40freeiranweb+irancell+%F0%9F%87%A9%F0%9F%87%AA
+trojan://837ef56e-df68-491c-b0f1-7def6d978b4a@ssrsub.t21.trojan.tel:80?security=tls&headerType=none&type=tcp&sni=hk.jd.com#%40freeiranweb+irancell+%F0%9F%87%B8%F0%9F%87%AA
+trojan://837ef56e-df68-491c-b0f1-7def6d978b4a@ssrsub.t16.trojan.tel:8080?security=tls&headerType=none&type=tcp&sni=hk.jd.com#%40freeiranweb+irancell+%F0%9F%87%AC%F0%9F%87%A7
