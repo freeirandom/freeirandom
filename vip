@@ -2,3 +2,4 @@ vless://6bb246b9-06de-44e3-a296-1a839a2f89ca@77.246.109.28:80?path=%2Fov2ray%2Ft
 vless://6bb246b9-06de-44e3-a296-1a839a2f89ca@104.31.16.65:80?path=%2Fov2ray%2Ftelegram%2Fchannel&security=none&encryption=none&host=www.mobishift.sbs&type=ws#%40freeiranweb+hamrah+Aval1+%F0%9F%87%B3%F0%9F%87%B1
 vless://11e5dc5a-a564-479a-909b-f696217bd4aa@104.31.16.65:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=ov2ray&sni=www.smezhj.sbs#%40freeiranweb+irancell2+%F0%9F%87%B3%F0%9F%87%B1
 vless://58b3d6b9-b2f8-4631-bcea-4c4c244056c8@104.31.16.65:2083?path=%2Fov2ray%2Ftelegram%2Fchannel&security=tls&encryption=none&host=www.smezhj.sbs&type=ws&sni=www.smezhj.sbs#%40freeiranweb+irancell1+%F0%9F%87%B3%F0%9F%87%B1
+vless://d64a08e4-e1f5-44d1-8efa-d353a4ed98e9@78.110.122.233:17747?path=%2F&security=none&encryption=none&type=ws#%40freeiranweb
