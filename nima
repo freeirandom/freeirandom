@@ -1,1 +1,404 @@
-aHlzdGVyaWEyOi8vZGVhZjZlMDgtMzBmZC00NWY2LWIzMTctZmM1ZGExODJhOTBhQDE2MC4yNTEuMjAwLjEwODo0NzAwMC8/aW5zZWN1cmU9MSZzbmk9aGFuZWRhLmxvbCZtcG9ydD00NzAwMC00ODAwMCMlRTUlODklQTklRTQlQkQlOTklRTYlQjUlODElRTklODclOEYlRUYlQkMlOUE0OTkuOTklMjBHQg0KaHlzdGVyaWEyOi8vZGVhZjZlMDgtMzBmZC00NWY2LWIzMTctZmM1ZGExODJhOTBhQDE2MC4yNTEuMjAwLjEwODo0NzAwMC8/aW5zZWN1cmU9MSZzbmk9aGFuZWRhLmxvbCZtcG9ydD00NzAwMC00ODAwMCMlRTglQjclOUQlRTclQTYlQkIlRTQlQjglOEIlRTYlQUMlQTElRTklODclOEQlRTclQkQlQUUlRTUlODklQTklRTQlQkQlOTklRUYlQkMlOUE1JTIwJUU1JUE0JUE5DQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAMTYwLjI1MS4yMDAuMTA4OjQ3MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ3MDAwLTQ4MDAwIyVFNSVBNSU5NyVFOSVBNCU5MCVFNSU4OCVCMCVFNiU5QyU5RiVFRiVCQyU5QTIwMjQtMDktMjQNCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxNjAuMjUxLjIwMC4xMDg6NDcwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDcwMDAtNDgwMDAjJUU1JUFFJTk4JUU3JUJEJTkxaGFuZWRhLmxvbA0KaHlzdGVyaWEyOi8vZGVhZjZlMDgtMzBmZC00NWY2LWIzMTctZmM1ZGExODJhOTBhQDE2MC4yNTEuMjA2LjYzOjQ1MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ1MDAwLTQ2MDAwIyVFNiU5NyVBNSVFNiU5QyVBQzAxDQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAMTYwLjI1MS4yMTIuMTU3OjQ1MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ1MDAwLTQ2MDAwIyVFNiU5NyVBNSVFNiU5QyVBQzAyDQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAMTYwLjI1MS4yMzUuNzI6NDUwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDUwMDAtNDYwMDAjJUU2JTk3JUE1JUU2JTlDJUFDMDMNCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxNjAuMjUxLjIwMC4xMDg6NDUwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDUwMDAtNDYwMDAjJUU2JTk3JUE1JUU2JTlDJUFDMDQNCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxNjAuMjUxLjIwOC4xNjQ6NDUwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDUwMDAtNDYwMDAjJUU2JTk3JUE1JUU2JTlDJUFDMDUNCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxNjAuMjUxLjEzNy4xNzc6NDUwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDUwMDAtNDYwMDAjJUU2JTk3JUE1JUU2JTlDJUFDMDYNCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxNjAuMjUxLjIwNi42Mzo0NzAwMC8/aW5zZWN1cmU9MSZzbmk9aGFuZWRhLmxvbCZtcG9ydD00NzAwMC00ODAwMCMlRTYlOTclQTUlRTYlOUMlQUMwNw0KaHlzdGVyaWEyOi8vZGVhZjZlMDgtMzBmZC00NWY2LWIzMTctZmM1ZGExODJhOTBhQDE2MC4yNTEuMjEyLjE1Nzo0NzAwMC8/aW5zZWN1cmU9MSZzbmk9aGFuZWRhLmxvbCZtcG9ydD00NzAwMC00ODAwMCMlRTYlOTclQTUlRTYlOUMlQUMwOA0KaHlzdGVyaWEyOi8vZGVhZjZlMDgtMzBmZC00NWY2LWIzMTctZmM1ZGExODJhOTBhQDE2MC4yNTEuMjM1LjcyOjQ3MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ3MDAwLTQ4MDAwIyVFNiU5NyVBNSVFNiU5QyVBQzA5DQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAMTYwLjI1MS4yMDAuMTA4OjQ3MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ3MDAwLTQ4MDAwIyVFNiU5NyVBNSVFNiU5QyVBQzEwDQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAMTA3LjE3NC41Mi4xNjA6NDcwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDcwMDAtNDgwMDAjJUU3JUJFJThFJUU1JTlCJUJEMDENCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUAxOTIuMjEwLjIwMi4xMzA6NDcwMDAvP2luc2VjdXJlPTEmc25pPWhhbmVkYS5sb2wmbXBvcnQ9NDcwMDAtNDgwMDAjJUU3JUJFJThFJUU1JTlCJUJEMDINCmh5c3RlcmlhMjovL2RlYWY2ZTA4LTMwZmQtNDVmNi1iMzE3LWZjNWRhMTgyYTkwYUA4My4xNDcuNDIuMTQ0OjQ3MDAwLz9pbnNlY3VyZT0xJnNuaT1oYW5lZGEubG9sJm1wb3J0PTQ3MDAwLTQ4MDAwIyVFNyVCRSU4RSVFNSU5QiVCRDAzDQpoeXN0ZXJpYTI6Ly9kZWFmNmUwOC0zMGZkLTQ1ZjYtYjMxNy1mYzVkYTE4MmE5MGFAODMuMTQ3LjQyLjE0NDo0NDAwMC8/aW5zZWN1cmU9MSZzbmk9aGFuZWRhLmxvbCZtcG9ydD00NDAwMC00NTAwMCMlRTclQkUlOEUlRTUlOUIlQkQwNA0K
+{
+  "log": {
+    "level": "warn",
+    "output": "box.log",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "1.1.1.1",
+        "address_resolver": "dns-direct",
+        "strategy": "prefer_ipv6"
+      },
+      {
+        "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "strategy": "prefer_ipv6",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "1.0.0.1",
+        "address_resolver": "dns-local",
+        "strategy": "prefer_ipv6",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "server": "dns-direct"
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "104.17.147.22",
+        "104.17.148.22",
+        "172.67.214.246",
+        "104.21.83.62",
+        "2606:4700:3030::ac43:d6f6",
+        "2606:4700:3030::6815:533e"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "inet6_address": "fdfe:dcba:9876::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "mixed",
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 2334,
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "select",
+      "outbounds": [
+        "auto",
+        "官网haneda.lol",
+        "日本01",
+        "日本02",
+        "日本03",
+        "日本04",
+        "日本05",
+        "日本06",
+        "日本07",
+        "日本08",
+        "日本09",
+        "日本10",
+        "美国01",
+        "美国02",
+        "美国03",
+        "美国04"
+      ],
+      "default": "auto"
+    },
+    {
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "官网haneda.lol",
+        "日本01",
+        "日本02",
+        "日本03",
+        "日本04",
+        "日本05",
+        "日本06",
+        "日本07",
+        "日本08",
+        "日本09",
+        "日本10",
+        "美国01",
+        "美国02",
+        "美国03",
+        "美国04"
+      ],
+      "url": "http://www.google.com/generate_204",
+      "interval": "1m0s",
+      "idle_timeout": "10m0s"
+    },
+    {
+      "type": "hysteria2",
+      "tag": "官网haneda.lol",
+      "server": "160.251.200.108",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本01",
+      "server": "160.251.206.63",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本02",
+      "server": "160.251.212.157",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本03",
+      "server": "160.251.235.72",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本04",
+      "server": "160.251.200.108",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本05",
+      "server": "160.251.208.164",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本06",
+      "server": "160.251.137.177",
+      "server_port": 45000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本07",
+      "server": "160.251.206.63",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本08",
+      "server": "160.251.212.157",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本09",
+      "server": "160.251.235.72",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本10",
+      "server": "160.251.200.108",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "美国01",
+      "server": "107.174.52.160",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "美国02",
+      "server": "192.210.202.130",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "美国03",
+      "server": "83.147.42.144",
+      "server_port": 47000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "美国04",
+      "server": "83.147.42.144",
+      "server_port": 44000,
+      "password": "deaf6e08-30fd-45f6-b317-fc5da182a90a",
+      "tls": {
+        "enabled": true,
+        "server_name": "haneda.lol",
+        "insecure": true
+      }
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "10-30",
+        "sleep": "2-8"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geoip-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-ir.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-ir.srs",
+        "update_interval": "120h0m0s"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:6756",
+      "secret": "Clw5BHnj-8_qKdZ9"
+    }
+  }
+}
