@@ -1,0 +1,45 @@
+body{margin:0;font-family: Tahoma;background:#ededed}
+A {TEXT-DECORATION: none; }
+
+.top{width:1003;background:url('top.jpg') no-repeat top;height:210;vertical-align:top;direction:rtl;}
+.titr{color:#fea900;text-align:center;font-size:27pt;font-weight: bold;padding:0 60 3 500;font-family:Times New Roman;}
+.des{padding:0 70 0 500;direction:rtl;font-size:10pt;color:#dddddd;text-align:center;}
+
+.menur{width:209;float:left;}
+.menul{width:209;float:right;}
+.tmenu{width:209;background:url('m1.jpg') no-repeat top right;height:58;direction:rtl;color:#e47300;font-size:9pt;}
+.tmenu2{padding:20 65 0 0;text-align:right}
+.xmenu{width:209;float:left;direction:rtl;color:#444444;font-size:9pt;background:url('m2.jpg') repeat-y right;}
+.xmenu a{color:#444444;}
+.xmenu a:hover{color:#999999}
+.menu-txt{padding:3 15 6 0;background:url(dot.gif) 180px 6px  no-repeat;border-bottom:1px solid #dcdcdc;margin:0 10}
+.s{width:209;background:url('m3.jpg') no-repeat top right;height:30;float:right}
+.menu-txt2 span{color:#c64226;font-size:8pt;font-weight:bold}
+.menu-txt2{padding:0 10 5 10;}
+
+.tpost{width:543;height:50;background:url('p1.jpg') no-repeat top right;direction:rtl;text-align:right;color:#fff;
+font-size:14pt;font-family: Times New Roman}
+.tpost a{color:#fff}
+.tpost2{padding:10 70 0 20;}
+.post{width:543;background:url('p2.gif') repeat-y right;direction:rtl;text-align:right;color:#333333;font-size:9pt;}
+.post2{padding:8 15 10 15}
+.post3{width:543;background:url('p3.jpg') no-repeat top right;height:55;text-align:right}
+.post33{padding:15 50 0 5}
+.post a{color:#c71607}
+.date{width:350px;float:right;direction:rtl;font-size:8pt;color:#777777}
+.nazar{width:130px;float:left;direction:rtl;font-size:9pt;color:#fff;text-align:center;}
+.nazar a{color:#fff}
+
+.page{width:100%;float:right;text-align:center;font-size:8pt;color:#999999;direction:rtl;}
+.page a{color:#c64226;font-size:9pt;}
+
+.ft{text-align:center;background:url('ft.jpg') repeat-x top;font-size:9pt;color:#c1c1c1;direction:rtl;height:45;}
+.ft a{color:#fff}
+
+.top-pichak{color:#000;font-size:10pt;padding:10 0 0 0;text-align:right;}
+.top a{color:#e1e1e1;margin:0 12}
+.top a:hover{color:#fff}
+.sch{margin:0;padding:0;height:30}
+.but{cursor:pointer;width:30;border:none;background:none}
+.txt{border:0;background:none;color:#fff;height:20}
+.bala{float:left;width:50;text-align:right;height:20;}
